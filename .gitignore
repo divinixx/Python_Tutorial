@@ -1,0 +1,7 @@
+# Large data files
+Zomato_EDA/zomato.csv
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
